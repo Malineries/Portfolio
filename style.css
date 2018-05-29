@@ -1,0 +1,154 @@
+.header-content-block a {
+  text-align: right;
+  font-family: 'SportingGrotesqueGras';
+  font-size: 20px;
+  float:right;
+margin-right:50px;
+margin-top: 20px;
+  line-height:100px;
+  width:50px;
+}
+
+.header-content-block a:hover {
+  float:right;
+  margin-right:50px;
+  margin-top: 20px;
+  line-height:100px;
+  width:50px;
+  vertical-align:middle;
+background:url(images/langue.png) no-repeat;
+}
+
+
+.bouton1 a {
+float:left;
+margin:2px;
+display:block;
+width:150px;
+line-height:100px;
+font-family: 'SportingGrotesqueGras';
+font-size: 30px;
+   font-weight: normal;
+   font-style: normal;
+text-align:left;
+vertical-align:middle;
+background:none;
+color:black;
+text-decoration:none;
+}
+
+.bouton1 a:hover {
+  float:left;
+  margin:2px;
+  display:block;
+  width:150px;
+  line-height:100px;
+  vertical-align:middle;
+background:url(images/bouton1.png) no-repeat;
+
+}
+
+.bouton2 a {
+float:left;
+margin:2px;
+display:block;
+width:150px;
+line-height:100px;
+font-family: 'SportingGrotesqueGras';
+font-size: 30px;
+   font-weight: normal;
+   font-style: normal;
+text-align:left;
+vertical-align:middle;
+background:none;
+color:black;
+text-decoration:none;
+}
+
+.bouton2 a:hover {
+  float:left;
+  margin:2px;
+  display:block;
+  width:150px;
+  line-height:100px;
+  vertical-align:middle;
+background:url(images/bouton2.png) no-repeat;}
+
+.bouton3 a {
+float:left;
+margin:2px;
+display:block;
+width:150px;
+line-height:100px;
+font-family: 'SportingGrotesqueGras';
+font-size: 30px;
+   font-weight: normal;
+   font-style: normal;
+text-align:left;
+vertical-align:middle;
+background:none;
+color:black;
+text-decoration:none;
+}
+
+.bouton3 a:hover {
+  float:left;
+  margin:2px;
+  display:block;
+  width:150px;
+  line-height:100px;
+  vertical-align:middle;
+background:url(images/bouton3.png) no-repeat;}
+
+img {
+margin-left: 110px;
+ }
+
+#biographie {
+
+}
+.bio-content{
+margin-left: 110px;
+margin-right: 200px;
+max-width: 100%;
+min-width: 10%;
+text-align: left;
+padding: 2em;
+
+}
+.under{
+line-height: 50px;
+ text-decoration: underline;
+ text-decoration: 20px;
+ text-decoration-color: black;
+ }
+
+img {margin-left: 180px;
+
+}
+
+ p{font-family: 'SportingGrotesqueGras';
+  font-weight: normal;
+  font-style: normal;
+ font-size:40px;
+ font-style: bold;
+ color: #000000;
+ text-align:justify;
+ margin-bottom: 16px;
+ margin-left: 55px;
+ margin-right: 60px;
+ margin-top: -6;
+
+ line-height: 50px;
+
+
+
+ }
+
+ img {
+   float: center;
+ }
+
+marquee {
+   margin-left: 180px;
+}
