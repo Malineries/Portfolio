@@ -1,22 +1,45 @@
-.header-content-block a {
+
+
+body {
+
+width: 100%;
+min-width: 100%;
+min-height: 100%;
+}
+
+
+#langues {
+  display: flex;
+
+}
+
+.langues a {
   text-align: right;
   font-family: 'SportingGrotesqueGras';
+color: black;
   font-size: 20px;
-  float:right;
+
 margin-right:50px;
 margin-top: 20px;
   line-height:100px;
   width:50px;
+  text-decoration: none;
 }
 
-.header-content-block a:hover {
-  float:right;
+.langues a:hover {
+
+  color: black;
   margin-right:50px;
   margin-top: 20px;
   line-height:100px;
   width:50px;
+  text-decoration: none;
   vertical-align:middle;
 background:url(images/langue.png) no-repeat;
+}
+
+#navbar {
+  position: fixed;
 }
 
 
@@ -123,9 +146,7 @@ line-height: 50px;
  text-decoration-color: black;
  }
 
-img {margin-left: 180px;
 
-}
 
  p{font-family: 'SportingGrotesqueGras';
   font-weight: normal;
