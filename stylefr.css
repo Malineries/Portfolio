@@ -1,32 +1,70 @@
-.header-content-block a {
-  display:block;
-  text-align: right;
-  font-family: 'SportingGrotesqueGras';
-  font-size: 20px;
-  float:right;
-  margin-right:50px;
-  margin-top: 20px;
-width:50px;
-  line-height:100px;
-  vertical-align:middle;
-  background:none;
+
+header {
+  margin-left: 180px;
+  margin-right: 180px;
+  margin-top: 5px;
+  min-width: 540px;
+  min-height: 300px;
+  padding: 0px;
+
+
 }
-.header-content-block a:hover {
-  float:right;
+
+
+
+.langues a {
+float:left;
+  margin:2px;
+  margin-left: -65px;
   display:block;
-  margin-right:50px;
-  margin-top: 20px;
+  width:150px;
   line-height:100px;
-  width:50px;
+  font-family: 'SportingGrotesqueGras';
+  font-size:15px;
+     font-weight: normal;
+     font-style: normal;
+  text-align:left;
+
+  background:none;
+  color:black;
+  text-decoration:none;
+
+
+
+}
+
+
+
+.langues a:hover {
+
+
+  margin:2px;
+  margin-left: -65px;
+  display:block;
+  width:150px;
+  line-height:100px;
+
+
 background:url(images/langue.png) no-repeat;
-vertical-align:middle;
+
+
+}
+
+
+#navbar {
+  margin-left: 180px;
+  margin-right: 180px;
+  margin-top: 5px;
+  min-width: 540px;
+  min-height: 800px;
+  padding: 0px;
 }
 
 
 
 .bouton1 a {
 float:left;
-margin:2px;
+margin:9px;
 display:block;
 width:150px;
 line-height:100px;
@@ -35,7 +73,7 @@ font-size: 30px;
    font-weight: normal;
    font-style: normal;
 text-align:left;
-vertical-align:middle;
+vertical-align:left;
 background:none;
 color:black;
 text-decoration:none;
@@ -43,18 +81,18 @@ text-decoration:none;
 
 .bouton1 a:hover {
   float:left;
-  margin:2px;
+margin:9px;
   display:block;
   width:150px;
   line-height:100px;
-  vertical-align:middle;
+  vertical-align:left;
 background:url(images/bouton1.png) no-repeat;
 
 }
 
 .bouton2 a {
 float:left;
-margin:2px;
+margin:9px;
 display:block;
 width:150px;
 line-height:100px;
@@ -62,7 +100,7 @@ font-family: 'SportingGrotesqueGras';
 font-size: 30px;
    font-weight: normal;
    font-style: normal;
-text-align:left;
+text-align:center;
 vertical-align:middle;
 background:none;
 color:black;
@@ -71,7 +109,7 @@ text-decoration:none;
 
 .bouton2 a:hover {
   float:left;
-  margin:2px;
+margin:9px;
   display:block;
   width:150px;
   line-height:100px;
@@ -80,7 +118,7 @@ background:url(images/bouton2.png) no-repeat;}
 
 .bouton3 a {
 float:left;
-margin:2px;
+margin:9px;
 display:block;
 width:150px;
 line-height:100px;
@@ -88,8 +126,8 @@ font-family: 'SportingGrotesqueGras';
 font-size: 30px;
    font-weight: normal;
    font-style: normal;
-text-align:left;
-vertical-align:middle;
+text-align:right;
+vertical-align:right;
 background:none;
 color:black;
 text-decoration:none;
@@ -97,23 +135,27 @@ text-decoration:none;
 
 .bouton3 a:hover {
   float:left;
-  margin:2px;
+margin:9px;
   display:block;
   width:150px;
   line-height:100px;
-  vertical-align:middle;
+  vertical-align:right;
 background:url(images/bouton3.png) no-repeat;}
 
-img {
-margin-left: 110px;
- }
 
 #biographie {
+  margin-left: 180px;
+  margin-right: 180px;
+  margin-top: 5px;
+  min-width: 540px;
+  min-height: 800px;
+  padding: 0px;
+
+
 
 }
+
 .bio-content{
-margin-left: 110px;
-margin-right: 200px;
 max-width: 100%;
 min-width: 10%;
 text-align: left;
@@ -127,9 +169,7 @@ line-height: 50px;
  text-decoration-color: black;
  }
 
-img {margin-left: 180px;
 
-}
 
  p{font-family: 'SportingGrotesqueGras';
   font-weight: normal;
@@ -139,8 +179,6 @@ img {margin-left: 180px;
  color: #000000;
  text-align:justify;
  margin-bottom: 16px;
- margin-left: 55px;
- margin-right: 60px;
  margin-top: -6;
 
  line-height: 50px;
@@ -149,10 +187,17 @@ img {margin-left: 180px;
 
  }
 
- img {
-   float: center;
- }
+
+
 
 marquee {
-   margin-left: 180px;
+
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 5px;
+  min-width: 540px;
+  min-height: 5px;
+  padding: 0px;
+
+
 }
